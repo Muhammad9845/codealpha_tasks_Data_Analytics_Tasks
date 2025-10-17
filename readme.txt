@@ -94,7 +94,7 @@ The final dashboard visually summarizes:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Muhammad9845/codealpha_tasks.git
+   git clone https://github.com/Muhammad9845/codealpha_tasks_Data_Analytics_Tasks.git
    cd CodeAlpha-Books-Analysis
 2. **Create and Activate Virtual Environment**
    ```python -m venv .venv
